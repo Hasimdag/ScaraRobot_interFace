@@ -1,0 +1,52 @@
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\Robtek V1.1.exe.config
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\Robtek V1.1.exe
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\Robtek V1.1.pdb
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\obj\Debug\Robtek V1.1.csproj.AssemblyReference.cache
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\obj\Debug\Robtek_V1._1.Properties.Resources.resources
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\obj\Debug\Robtek V1.1.csproj.GenerateResource.cache
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\obj\Debug\Robtek V1.1.csproj.CoreCompileInputs.cache
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\obj\Debug\Robtek V1.1.exe
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\obj\Debug\Robtek V1.1.pdb
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\obj\Debug\Robtek_V1._1.SplashScreenForm.resources
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\Guna.UI2.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\obj\Debug\Robtek V.B30B5ECE.Up2Date
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\obj\Debug\Robtek_V1._1.MainForm.resources
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\obj\Debug\Robtek_V1._1.KontrolForm.resources
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\obj\Debug\Robtek_V1._1.VakumModül.resources
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\obj\Debug\Robtek_V1._1.GripperForm.resources
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SharpDX.Desktop.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SharpDX.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SharpDX.DXGI.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SharpGL.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SharpDX.xml
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SharpDX.Desktop.xml
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SharpDX.DXGI.xml
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SharpGL.pdb
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SharpGL.xml
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\ClosedXML.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\Irony.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SixLabors.Fonts.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\System.Buffers.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\System.IO.Packaging.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\System.Memory.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\XLParser.dll
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\ClosedXML.xml
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\SixLabors.Fonts.xml
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\System.Buffers.xml
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\System.IO.Packaging.xml
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\System.Memory.xml
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ÜtüLeşi\source\repos\Robtek V1.1\Robtek V1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
